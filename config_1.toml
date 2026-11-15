@@ -1,0 +1,16 @@
+# Norse rune theme: dark carved stone, ember gold, frost blue, parchment text
+[theme]
+base = "dark"
+primaryColor = "#d4a24c"
+backgroundColor = "#0d0f12"
+secondaryBackgroundColor = "#1b1e23"
+textColor = "#e8dcc4"
+linkColor = "#8ec5e6"
+borderColor = "#4a3f2c"
+baseRadius = "small"
+font = "Spectral:https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&display=swap, serif"
+headingFont = "Cinzel:https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap, serif"
+
+[theme.sidebar]
+backgroundColor = "#121419"
+secondaryBackgroundColor = "#1f2228"
